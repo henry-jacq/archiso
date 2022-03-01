@@ -63,14 +63,14 @@ rm -r ./ezreleng/efiboot
 rm -r ./ezreleng/syslinux
 }
 
-# Copy ezrepo to opt
-cpezrepo () {
-cp -r ./opt/ezrepo /opt/
+# Copy arcigo-repo to opt
+cp_arcigo_repo () {
+cp -r ./opt/arcigo /opt/
 }
 
-# Remove ezrepo from opt
-rmezrepo () {
-rm -r /opt/ezrepo
+# Remove arcigo-repo from opt
+rm_arcigo_repo () {
+rm -r /opt/arcigo
 }
 
 # Delete automatic login
@@ -203,7 +203,7 @@ prepreqs
 cleanup
 cpezreleng
 addnmlinks
-cpezrepo
+cp_arcigo_repo
 nalogin
 rmunitsd
 cpmyfiles
@@ -216,4 +216,4 @@ setkeylayout
 crtkeyboard
 crtlocalec
 runmkarchiso
-rmezrepo
+rm_arcigo_repo

@@ -123,12 +123,12 @@ navigation: widget
 # are set to "true" (they can also be overridden).
 strings:
     productName:         "@{NAME}"
-    shortProductName:    Ezarcher
-    version:             2021
-    shortVersion:        2021
-    versionedName:       Ezarcher Linux
-    shortVersionedName:  Ezarcher Linux
-    bootloaderEntryName: Ezarcher
+    shortProductName:    Arcigo
+    version:             2022
+    shortVersion:        2022
+    versionedName:       Arcigo Linux
+    shortVersionedName:  Arcigo Linux
+    bootloaderEntryName: Arcigo
     productUrl:          https://sourceforge.net/projects/ezarch/
 #   supportUrl:          https://sourceforge.net/projects/ezarch/
 #   knownIssuesUrl:      https://sourceforge.net/projects/ezarch/

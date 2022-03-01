@@ -136,8 +136,6 @@ bluez-utils
 binutils
 bison
 cdrtools
-chaotic-keyring
-chaotic-mirrorlist
 cmake
 cronie
 devtools
@@ -244,12 +242,10 @@ pulseaudio-jack
 simplescreenrecorder
 transcode
 smplayer
-spotify
 vlc
 x265
 x264
 xvidcore
-zoom
 
 # utilities
 atom
@@ -261,7 +257,6 @@ cmatrix
 code
 dialog
 flameshot
-github-desktop
 handbrake
 mlocate
 mysql-workbench
@@ -389,6 +384,12 @@ powerdevil
 print-manager
 qbittorrent
 systemsettings
+
+# arcigo-wallpapers
+arcigo-backgrounds
+arcigo-backgrounds-extra
+arcigo-backgrounds-minimal
+arcigo-backgrounds-branding
 
 # Display Manager
 sddm
