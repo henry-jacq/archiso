@@ -1,0 +1,8 @@
+NAME="Arcigo Linux"
+ID=arcigo
+PRETTY_NAME="Arcigo Linux"
+ANSI_COLOR="0;34"
+HOME_URL="https://github.com/arcigo-os/"
+SUPPORT_URL="https://github.com/arcigo-os/"
+BUG_REPORT_URL="https://github.com/arcigo-os/"
+

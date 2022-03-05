@@ -12,7 +12,6 @@ btrfs-progs
 clonezilla
 crda
 cryptsetup
-darkhttpd
 ddrescue
 dhclient
 dhcpcd
@@ -262,7 +261,6 @@ mlocate
 mysql-workbench
 obs-studio
 gimp
-postman-bin
 spectacle
 sublime-text-4
 
@@ -272,12 +270,29 @@ xorg
 xorg-server
 xorg-apps
 xorg-drivers
+xorg-xbacklight
+xorg-xdm
 xorg-xkill
 xorg-xinit
 
+# Drivers
+xf86-input-synaptics
+xf86-input-vmmouse
+xf86-video-amdgpu
+xf86-video-ati
+xf86-video-dummy
+xf86-video-fbdev
+xf86-video-intel
+xf86-video-nouveau
+xf86-video-openchrome
+xf86-video-vesa
+xf86-video-vmware
+xf86-video-voodoo
+
 # Programming Languages
 # jdk-openjdk
-# php7
+php7
+php7-apache
 python3
 
 # Networking
@@ -307,17 +322,27 @@ wget
 whois
 
 # Fonts
+adobe-source-sans-fonts
+adobe-source-serif-fonts
+adobe-source-code-pro-fonts
 awesome-terminal-fonts
-ttf-hack
-ttf-roboto
+cantarell-fonts
+ttf-bitstream-vera
+ttf-caladea
+ttf-carlito
+ttf-cascadia-code
+ttf-croscore
 ttf-droid
 ttf-dejavu
+ttf-fira-code
+ttf-fira-mono
+ttf-fira-sans
+ttf-hack
+ttf-joypixels
 ttf-liberation
-ttf-bitstream-vera
-cantarell-fonts
-ttf-croscore
-ttf-carlito
-ttf-caladea
+ttf-nerd-fonts-symbols
+ttf-roboto
+ttf-roboto-mono
 noto-fonts
 noto-fonts-emoji
 opendesktop-fonts

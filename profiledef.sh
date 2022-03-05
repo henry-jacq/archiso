@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="arcigo-desktop-kde"
-iso_label="arcigo-desktop-kde_$(date +%Y-%m)"
+iso_name="arcigo-linux-desktop"
+iso_label="ARCIGO_$(date +%Y-%m)"
 iso_publisher="Arcigo Linux <https://github.com/arcigo-os/>"
-iso_application="Arcigo DVD"
+iso_application="Arcigo Linux"
 iso_version="$(date +%Y.%m)"
-install_dir="arch"
+install_dir="arcigo"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
 arch="x86_64"
