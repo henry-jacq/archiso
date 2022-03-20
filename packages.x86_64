@@ -178,6 +178,7 @@ perl-term-readline-gnu
 perl-term-ui
 pkgfile
 plocate
+plymouth
 rsync
 syncthing
 tlp
@@ -255,8 +256,11 @@ bleachbit
 cmatrix
 code
 dialog
+downgrade
 flameshot
+gitahead
 handbrake
+lf-bin
 mlocate
 mysql-workbench
 obs-studio
@@ -410,11 +414,19 @@ print-manager
 qbittorrent
 systemsettings
 
-# arcigo-wallpapers
+# Arcigo
 arcigo-backgrounds
 arcigo-backgrounds-extra
 arcigo-backgrounds-minimal
 arcigo-backgrounds-branding
+arcigo-geany
+arcigo-keyring
+arcigo-mirrorlist
+arcigo-neovim
+arcigo-network-assistant
+arcigo-plymouth-theme
+arcigo-wifi-hotspot
+arcigo-vim
 
 # Display Manager
 sddm

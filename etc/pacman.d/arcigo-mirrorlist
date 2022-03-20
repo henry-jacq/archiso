@@ -1,4 +1,4 @@
 ############## Arcigo Mirrorlist ###############
 
 ## Worldwide
-Server = https://arcigo-os.github.io/packages/$arch
+Server = https://gitlab.com/arcigo-linux/$repo/-/raw/main/$arch

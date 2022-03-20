@@ -3,7 +3,7 @@
 
 iso_name="arcigo-linux-desktop"
 iso_label="ARCIGO_$(date +%Y-%m)"
-iso_publisher="Arcigo Linux <https://github.com/arcigo-os/>"
+iso_publisher="Arcigo Linux <https://gitlab.com/arcigo-linux/>"
 iso_application="Arcigo Linux"
 iso_version="$(date +%Y.%m)"
 install_dir="arcigo"
