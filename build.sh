@@ -43,7 +43,7 @@ sleep 2
 
 # Requirements and preparation
 prepreqs () {
-pacman -S --noconfirm archlinux-keyring
+pacman -S --noconfirm archlinux-keyring arcigo-keyring
 pacman -S --needed --noconfirm archiso mkinitcpio-archiso
 }
 
